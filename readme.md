@@ -23,7 +23,7 @@
    SFT-trained models often converge on similar solution strategies, suggesting fundamental limitations in developing higher-level reasoning solely through SFT.
 
 <p align="center">
-  <img src="visuals/teaser.pdf" alt="Teaser figure" />
+  <img src="assets/teaser.jpg" alt="Teaser figure" />
 </p>
 
 ---
