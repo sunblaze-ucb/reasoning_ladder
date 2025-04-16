@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Climbing the Ladder of Reasoning: What LLMs Can—and Still Can’t—Solve after SFT?</h1>
   <p> 
-    A systematic study on the potential and limitations of small-scale Supervised Fine-Tuning (SFT)
+    A systematic study on the potential and limitations of Supervised Fine-Tuning (SFT) on math reasoning tasks
   </p>
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 🚩 Key Takeaways
 
-1. **Careful curation of small-scale SFT datasets appears unnecessary.**  
+1. **Careful curation of small-scale SFT datasets provides marginal gain.**  
    Across a wide range of math categories, model performance varies marginally (~1%) between curated and randomly constructed datasets.
 
 2. **Potential vs. Stability.**  
