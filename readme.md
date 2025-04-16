@@ -29,7 +29,7 @@
 ---
 
 This repository provides all resources for the paper:  
-**["Climbing the Ladder of Reasoning: What LLMs Can—and Still Can’t—Solve after SFT?"](https://github.com/sunblaze-ucb/reasoning_ladder/paper/SFT_reasoning_ladder.pdf)**
+**["Climbing the Ladder of Reasoning: What LLMs Can—and Still Can’t—Solve after SFT?"](https://github.com/sunblaze-ucb/reasoning_ladder/blob/main/paper/SFT_reasoning_ladder.pdf)**
 
 ### 📦 Contents
 - [Artifacts](#artifacts)
@@ -42,7 +42,7 @@ This repository provides all resources for the paper:
 ### 📁 Artifacts
 
 - **📄 Paper**:  
-  [SFT_reasoning_ladder.pdf](https://github.com/sunblaze-ucb/reasoning_ladder/paper/SFT_reasoning_ladder.pdf)
+  [SFT_reasoning_ladder.pdf](https://github.com/sunblaze-ucb/reasoning_ladder/blob/main/paper/SFT_reasoning_ladder.pdf)
 
 - **🤖 Models**:  
   Available on Hugging Face: https://huggingface.co/sunyiyou/
