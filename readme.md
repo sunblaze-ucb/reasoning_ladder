@@ -29,7 +29,7 @@
 ---
 
 This repository provides all resources for the paper:  
-**["Climbing the Ladder of Reasoning: What LLMs Can—and Still Can’t—Solve after SFT?"](https://github.com/sunblaze-ucb/reasoning_ladder/blob/main/paper/SFT_reasoning_ladder.pdf)**
+**["Climbing the Ladder of Reasoning: What LLMs Can—and Still Can’t—Solve after SFT?"](https://arxiv.org/abs/2504.11741)**
 
 ### 📦 Contents
 - [Artifacts](#artifacts)
@@ -42,7 +42,7 @@ This repository provides all resources for the paper:
 ### 📁 Artifacts
 
 - **📄 Paper**:  
-  [SFT_reasoning_ladder.pdf](https://github.com/sunblaze-ucb/reasoning_ladder/blob/main/paper/SFT_reasoning_ladder.pdf)
+  [SFT_reasoning_ladder.pdf](https://arxiv.org/abs/2504.11741)
 
 - **🤖 Models**:  
   Available on Hugging Face: https://huggingface.co/sunyiyou/
@@ -113,7 +113,7 @@ If you find our work helpful, please cite:
 @article{sun2025climbing,
   author = {Sun, Yiyou and Zhou, Georgia and Wang, Hao and Li, Dacheng and Dziri, Nouha and Song, Dawn},
   title = {Climbing the Ladder of Reasoning: What LLMs Can---and Still Can't---Solve after SFT?},
-  journal = {Preprint},
-  year = {2025},
+  journal={arXiv preprint arXiv:2504.11741},
+  year={2024},
 }
 ```
